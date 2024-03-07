@@ -18,15 +18,17 @@
     (use "git add <file>..." to update what will be committed)
     (use "git restore <file>..." to discard changes in working directory)
         modified:   README.md
+   
+#MAKE SURE YOU SAVE IT 
 
-7. now run this code to add all modified in the file.
+8. now run this code to add all modified in the file.
     git add README.md (readme file name)
 
-8. now give VERSION 
+9. now give VERSION 
     git commit -m "Version-num"
 
-9. now PUSH TO GITHUB 
+10. now PUSH TO GITHUB 
     git push origin main
 
-10. And all done just go to ur repo and refresh the page you are good to go.
+11. And all done just go to ur repo and refresh the page you are good to go.
 
